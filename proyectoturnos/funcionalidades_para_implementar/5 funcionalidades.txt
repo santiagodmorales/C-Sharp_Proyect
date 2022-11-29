@@ -1,0 +1,6 @@
+Modulo de facturación para clientes. (En base a los turnos concretados genera facturación a la obra social/paciente). 
+Modulo para calculo de honorarios. (Honorario en base a cantidad de pacientes atendidos).
+Añadir ítem de especialidad/profesional.(Más de una especialidad por consultorio y posibilidad de mas de un profesional por especialidad). 
+Cronograma de mantenimientos de instalaciones/ equipamiento. ( En base a cantidad de turnos concretados).
+Control de stock de insumos. (En base stock disponible de insumos por especialidad). 
+Historia clínica. (Creación de historia clínica por paciente).

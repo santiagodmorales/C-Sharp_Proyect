@@ -1,0 +1,32 @@
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\bin\Debug\turnos.exe.config
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\bin\Debug\turnos.exe
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\bin\Debug\turnos.pdb
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\obj\Debug\turnos.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\obj\Debug\turnos.MainForm.resources
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\obj\Debug\turnos.csproj.GenerateResource.Cache
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\obj\Debug\turnos.exe
+C:\Users\david\Documents\SharpDevelop Projects\turnos\turnos\obj\Debug\turnos.pdb
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.exe.config
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.exe
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.pdb
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.csprojResolveAssemblyReference.cache
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.MainForm.resources
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.csproj.GenerateResource.Cache
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.exe
+E:\Analista en Sistemas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.pdb
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\bin\Debug\turnos.exe.config
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\bin\Debug\turnos.exe
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\bin\Debug\turnos.pdb
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\obj\Debug\turnos.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\obj\Debug\turnos.MainForm.resources
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\obj\Debug\turnos.csproj.GenerateResource.Cache
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\obj\Debug\turnos.exe
+C:\Users\Nahuel\Documents\SharpDevelop Projects\proyectoturnos\turnos\obj\Debug\turnos.pdb
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.exe.config
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.exe
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\bin\Debug\turnos.pdb
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.csprojResolveAssemblyReference.cache
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.MainForm.resources
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.csproj.GenerateResource.Cache
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.exe
+E:\Analista en Sistemas\Primer año\Practicas\TurnosGrupo\proyectoturnos\turnos\obj\Debug\turnos.pdb

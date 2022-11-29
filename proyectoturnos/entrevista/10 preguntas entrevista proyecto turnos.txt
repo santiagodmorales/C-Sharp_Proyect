@@ -1,0 +1,11 @@
+10 preguntas
+¿Poseen historia clinica de cada paciente?
+¿que obras sociales aceptan?
+¿ cuantos profesionales son encargados de tomar turnos?
+¿cual es el horario de atencion?
+¿cuantos dias a la semana funcionan?
+¿trabajan dias feriados?
+¿cual es el metodo actual para tomar turnos?
+¿es posible con este metodo borrar algun turno y volver a ocuparlo?
+¿cual es la tarifa por turno?
+¿que medios de pago aceptan?
